@@ -1,0 +1,12 @@
+node_modules
+vendor
+.env
+.git
+.gitignore
+README.md
+tests
+phpunit.xml
+storage/logs/*
+!storage/logs/.gitignore
+bootstrap/cache/*
+!bootstrap/cache/.gitignore
